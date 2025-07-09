@@ -2,6 +2,7 @@
 
 This repository contains parts of the source code of https://gitlab.dkrz.de/icon/icon-model/-/tree/release-2024.07-public , with modifications as in https://gitlab.dkrz.de/icon/icon-nwp/-/tree/icon-ROAM.
 The source code as published here is containing interfaces to the OASIS3-MCT coupler based on [Hagemann et al. (2024)](https://gmd.copernicus.org/articles/17/7815/2024/gmd-17-7815-2024.html), which can be used to couple the ocean model NEMO.
+
 The configure scripts are modified compared to the version of the ICON public release that the coupling via OASIS is switched on (`--enable_coupling_OAS=yes` by default).
 
 
